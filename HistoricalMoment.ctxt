@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=HistoricalMoment
+comment0.text=\r\n\ This\ class\ describes\ a\ historical\ moment\ \r\n\r\n\ @author\ Mert\ Bekdemir\r\n\ @version\ 1409\r\n
+comment1.params=
+comment1.target=HistoricalMoment()
+comment1.text=\r\n\ First\ constructor\ creates\ an\ event\ named\ "untitled\ event"\r\n\ and\ a\ ClockDisplay\ for\ the\ timeOfEvent\ instance\ variable\r\n\ and\ set\ its\ time\ to\ midnight\ by\ default\r\n
+comment2.params=nameOfTheEvent
+comment2.target=HistoricalMoment(java.lang.String)
+comment2.text=\r\n\ Second\ constructor\ has\ a\ String\ parameter.\r\n
+comment3.params=nameOfTheEvent\ theTime
+comment3.target=HistoricalMoment(java.lang.String,\ ClockDisplay)
+comment3.text=\r\n\ Third\ constructor\ has\ 2\ parameters\r\n
+comment4.params=
+comment4.target=void\ addMinuteToTimeOfEvent()
+comment4.text=\r\n\ addMinuteToTimeOfEvent\ method\ does\ that\ by\ calling\ timeOfEvent's\ timeTick()\ method.\r\n
+numComments=5
